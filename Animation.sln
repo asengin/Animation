@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ball", "Animation\Ball.csproj", "{CF907A70-6A8A-42A9-A961-C9D9667F6D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eye", "Eye\Eye.csproj", "{8F51C15F-6215-426C-820E-A5BA6DED67FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF907A70-6A8A-42A9-A961-C9D9667F6D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF907A70-6A8A-42A9-A961-C9D9667F6D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF907A70-6A8A-42A9-A961-C9D9667F6D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF907A70-6A8A-42A9-A961-C9D9667F6D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F51C15F-6215-426C-820E-A5BA6DED67FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F51C15F-6215-426C-820E-A5BA6DED67FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F51C15F-6215-426C-820E-A5BA6DED67FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F51C15F-6215-426C-820E-A5BA6DED67FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3D2B4E-FC36-4249-B1EF-4B476918E53E}
+	EndGlobalSection
+EndGlobal
